@@ -1,0 +1,215 @@
+Keyword,index,url,org,edu,com,else,keyword in entry,entry length,tutorial,wiki,introduction,course,class,lecture,video,graph,diagram,book,keyword_count,content_length,content_diagram,content_example,content_formula,content_graph,content_code,content_video,content_book,label
+data mining,1,https://www.tibco.com/reference-center/what-is-data-mining,0,0,1,0,0,322,0,0,0,0,1,0,0,0,0,0,18,11726,0,3,0,2,1,0,0,1
+data mining,2,https://en.wikipedia.org/wiki/Data_mining,1,0,0,0,1,363,0,1,0,0,0,0,0,0,0,0,42,18107,0,7,0,0,1,0,2,2
+data mining,3,https://www.ibm.com/cloud/learn/data-mining,0,0,1,0,1,341,0,0,0,0,0,0,0,0,0,0,12,8632,0,0,0,1,0,0,0,0
+data mining,4,https://www.sas.com/en_us/insights/analytics/data-mining.html,0,0,1,0,1,478,0,0,0,0,0,0,0,0,0,0,15,7085,0,2,0,1,1,0,2,1
+data mining,5,https://www.investopedia.com/terms/d/datamining.asp,0,0,1,0,0,326,0,0,0,0,0,0,0,0,0,0,8,4910,0,2,0,1,0,0,1,0
+data mining,6,https://orangedatamining.com/,0,0,1,0,0,1052,0,0,0,1,0,0,0,0,0,0,2,3043,0,0,0,0,0,0,0,0
+data mining,7,https://www.datameer.com/data-mining/,0,0,1,0,0,300,0,0,0,0,0,0,0,0,0,0,13,7426,0,6,0,0,0,1,1,1
+data mining,8,https://economictimes.indiatimes.com/definition/data-mining,0,0,1,0,1,332,0,0,0,0,0,0,0,0,0,0,2,4382,0,1,0,0,2,0,0,0
+data mining,9,https://searchbusinessanalytics.techtarget.com/definition/data-mining,0,0,1,0,1,321,0,0,0,0,0,0,0,0,0,0,16,8721,0,2,0,1,0,0,2,1
+data mining,10,https://www.britannica.com/technology/data-mining,0,0,1,0,1,414,0,0,0,0,0,0,0,0,0,0,4,5856,0,3,0,0,0,0,0,1
+subgraph counting,1,https://arxiv.org/pdf/1910.13011,1,0,0,0,0,283,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+subgraph counting,2,http://www.vldb.org/pvldb/vol13/p2493-zhang.pdf,1,0,0,0,0,336,0,0,0,0,0,0,0,1,0,0,0,24,0,0,0,0,0,0,0,0
+subgraph counting,3,http://www.dcs.gla.ac.uk/~kitty/slides/ima_mar16.pdf,0,0,0,1,0,289,0,0,0,0,0,0,0,1,0,0,0,629,0,0,0,0,2,0,0,0
+subgraph counting,4,https://dl.acm.org/doi/abs/10.1145/3433652,1,0,0,0,0,246,0,0,0,0,0,0,0,0,0,0,0,174,0,0,0,0,0,0,0,0
+subgraph counting,5,https://www.semanticscholar.org/paper/Distributed-Subgraph-Counting%3A-A-General-Approach-Zhang-Yu/4921be236239f1a8ba218a4ae307bfccc36b7baa,1,0,0,0,1,644,0,0,0,0,0,0,0,1,0,0,0,116,0,0,0,0,0,0,0,0
+subgraph counting,6,https://www.sciencedirect.com/science/article/pii/S0095895696917414,0,0,1,0,0,736,0,0,0,0,1,0,0,1,0,0,0,1083,0,0,0,2,0,0,0,1
+subgraph counting,7,https://drops.dagstuhl.de/opus/volltexte/2020/11723/pdf/LIPIcs-ITCS-2020-38.pdf,0,0,0,1,0,669,0,0,0,0,0,0,0,1,0,0,0,178,0,0,0,0,1,0,0,0
+subgraph counting,8,https://users.soe.ucsc.edu/~sesh/subgraph_counting/www19-subgraph-counting-tutorial-part1.pdf,0,1,0,0,0,317,1,0,0,0,0,0,0,1,0,0,0,132,0,0,0,0,1,0,0,0
+subgraph counting,9,https://ieeexplore.ieee.org/abstract/document/6687354,1,0,0,0,0,359,0,0,0,0,0,0,0,1,0,0,0,311,0,0,0,0,0,0,0,1
+subgraph counting,10,https://hal-enac.archives-ouvertes.fr/hal-03097484/file/2009.11318.pdf,0,0,0,1,0,315,0,0,0,0,1,0,0,1,0,0,0,7015,0,0,0,0,1,0,0,2
+deep learning,1,https://en.wikipedia.org/wiki/Deep_learning,1,0,0,0,0,359,0,1,0,0,1,0,0,0,0,0,53,45207,0,17,1,6,8,4,6,2
+deep learning,2,https://machinelearningmastery.com/what-is-deep-learning/,0,0,1,0,0,275,0,0,0,0,0,0,0,0,0,0,139,63486,1,11,0,4,39,1,14,2
+deep learning,3,https://www.deeplearningbook.org/,1,0,0,0,0,798,0,0,0,0,0,1,0,0,0,1,2,1428,0,0,0,0,0,0,7,1
+deep learning,4,https://www.coursera.org/specializations/deep-learning,1,0,0,0,1,713,0,0,0,1,0,0,0,0,0,0,19,16828,0,0,0,0,0,5,2,2
+deep learning,5,https://searchenterpriseai.techtarget.com/definition/deep-learning-deep-neural-network,0,0,1,0,1,666,0,0,0,0,0,0,0,0,0,0,27,13199,0,1,0,2,0,0,0,1
+deep learning,6,http://neuralnetworksanddeeplearning.com/,0,0,1,0,1,841,0,0,0,0,0,0,0,0,0,1,0,1242,0,0,0,0,0,0,7,0
+deep learning,7,https://www.ibm.com/cloud/learn/deep-learning,0,0,1,0,1,368,0,0,0,0,0,0,0,0,0,0,13,8131,0,3,0,1,0,1,1,1
+deep learning,8,https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618,0,0,1,0,0,520,0,0,0,0,0,0,0,0,0,0,3,2943,0,0,0,1,1,3,7,1
+deep learning,9,https://www.deeplearning.ai/,0,0,0,1,0,741,0,0,0,0,1,0,0,0,0,0,0,771,0,0,0,0,0,0,0,0
+deep learning,10,https://www.mathworks.com/discovery/deep-learning.html,0,0,1,0,0,521,0,0,0,0,0,0,0,0,0,0,40,12209,0,6,0,1,3,2,0,2
+neural network,1,https://www.investopedia.com/thmb/735Emjb7XxW9z_kYI6kvKJyBVK0=/3959x3959/smart/filters:no_upscale()/dotdash_Final_Neural_Network_Apr_2020-01-5f4088dfda4c49d99a4d927c9a3a5ba0.jpg?sa=X&ved=2ahUKEwiy9pC80J30AhUEEqYKHZheAHUQ_B16BAgLEAI,0,0,1,0,1,488,0,0,0,0,0,0,0,0,0,0,0,304,0,0,0,0,0,0,0,0
+neural network,2,https://en.wikipedia.org/wiki/Neural_network,1,0,0,0,1,342,0,1,0,0,0,0,0,0,0,0,49,18877,0,10,0,1,0,1,0,2
+neural network,3,https://www.ibm.com/cloud/learn/neural-networks,0,0,1,0,1,850,0,0,0,0,0,0,0,0,0,0,32,10461,0,4,2,0,1,0,1,1
+neural network,4,http://neuralnetworksanddeeplearning.com/,0,0,1,0,0,1223,0,0,0,0,0,0,0,0,0,1,2,1242,0,0,0,0,0,0,7,1
+neural network,5,https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414,0,1,0,0,1,952,0,0,0,0,0,0,0,0,0,0,6,10207,0,2,0,2,0,1,2,1
+neural network,6,https://www.sciencedirect.com/topics/social-sciences/neural-network,0,0,1,0,0,332,0,0,0,0,0,0,0,0,0,0,42,18395,0,5,0,9,0,0,0,2
+database management systems,1,https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zmiddbmg/zmiddle_46.htm,0,0,1,0,0,293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+algorithm,1,https://en.wikipedia.org/wiki/Algorithm,1,0,0,0,1,808,0,1,0,0,0,0,0,0,0,0,152,42954,3,22,3,14,15,0,3,2
+algorithm,2,https://ejje.weblio.jp/content/algorithm,0,0,0,1,1,234,0,0,0,0,0,0,0,0,0,0,20,2854,0,0,0,1,1,0,0,0
+algorithm,3,https://www.khanacademy.org/computing/computer-science/algorithms,1,0,0,0,1,831,0,0,0,0,0,0,0,0,0,0,0,480,0,0,0,0,0,0,0,1
+algorithm,4,https://www.merriam-webster.com/dictionary/algorithm,0,0,1,0,1,437,0,0,0,0,0,0,0,0,0,0,15,3307,0,3,0,0,1,0,0,1
+algorithm,5,https://www.investopedia.com/terms/a/algorithm.asp,0,0,1,0,0,372,0,0,0,0,0,0,0,0,0,0,29,7921,0,5,0,0,0,0,0,1
+algorithm,6,https://eow.alc.co.jp/search?q=algorithm,0,0,0,1,1,232,0,0,0,0,0,0,0,0,0,0,1,311,0,0,0,0,0,0,0,0
+algorithm,7,https://theconversation.com/what-is-an-algorithm-how-computers-know-what-to-do-with-data-146665,0,0,1,0,1,319,0,0,0,0,0,0,0,0,0,0,18,4569,0,5,0,0,0,0,0,2
+algorithm,8,https://whatis.techtarget.com/definition/algorithm,0,0,1,0,1,290,0,0,0,0,0,0,0,0,0,0,8,3251,0,2,1,1,0,0,0,1
+algorithm,9,https://dictionary.cambridge.org/dictionary/english/algorithm,1,0,0,0,0,311,0,0,0,0,0,0,0,0,0,0,2,959,0,1,0,0,0,0,0,1
+algorithm,10,https://www.bbc.co.uk/bitesize/topics/z3tbwmn/articles/z3whpv4,0,0,0,1,1,796,0,0,0,0,0,0,0,0,0,0,10,994,0,0,0,0,3,1,1,0
+reinforcement learning,1,https://searchenterpriseai.techtarget.com/definition/reinforcement-learning,0,0,1,0,1,328,0,0,0,0,0,0,0,0,0,0,9,6332,0,2,1,0,0,0,0,1
+reinforcement learning,2,https://en.wikipedia.org/wiki/Reinforcement_learning,1,0,0,0,1,362,0,1,0,0,0,0,0,0,0,0,21,22642,0,5,1,0,0,0,0,2
+reinforcement learning,3,https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/,0,0,0,1,1,617,0,0,0,0,0,0,0,0,0,0,20,12879,0,6,0,0,1,2,1,2
+reinforcement learning,4,https://www.geeksforgeeks.org/what-is-reinforcement-learning/,1,0,0,0,0,282,0,0,0,0,0,0,0,0,0,0,5,2129,0,0,0,0,1,0,0,0
+reinforcement learning,5,http://incompleteideas.net/book/the-book-2nd.html,0,0,0,1,0,368,0,0,0,0,0,0,0,0,0,1,0,406,0,1,0,0,0,0,2,0
+reinforcement learning,6,https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html,0,0,1,0,0,300,0,0,0,0,0,0,0,0,0,0,7,4949,0,0,0,0,0,1,0,1
+reinforcement learning,7,https://wiki.pathmind.com/deep-reinforcement-learning,0,0,1,0,1,392,0,1,0,0,0,0,0,0,0,0,27,21254,0,7,1,0,0,7,0,2
+reinforcement learning,8,https://mitpress.mit.edu/books/reinforcement-learning-second-edition,0,1,0,0,1,587,0,0,0,0,0,0,0,0,0,1,11,5960,0,0,0,0,0,0,8,1
+reinforcement learning,9,https://smartlabai.medium.com/reinforcement-learning-algorithms-an-intuitive-overview-904e2dff5bbc,0,0,1,0,0,320,0,0,0,0,0,0,0,0,0,0,3,9254,0,1,0,0,1,0,0,1
+reinforcement learning,10,https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf,0,1,0,0,0,579,0,0,0,1,1,0,0,0,0,0,0,82,0,0,0,0,1,0,0,1
+quantum computing,1,https://en.wikipedia.org/wiki/Quantum_computing,1,0,0,0,1,955,0,1,0,0,0,0,0,0,0,0,9,28169,0,7,0,10,1,0,0,2
+quantum computing,2,https://www.wired.co.uk/article/quantum-computing-explained,0,0,0,1,0,1210,0,0,0,0,0,0,0,0,0,0,3,7945,0,0,0,2,0,0,3,1
+quantum computing,3,https://www.ibm.com/quantum-computing/what-is-quantum-computing/?lnk=hpmls_buwi,0,0,1,0,0,546,0,0,0,0,0,0,0,0,0,0,5,6822,0,2,0,0,1,0,1,1
+quantum computing,4,https://www.dwavesys.com/learn/quantum-computing/,0,0,1,0,0,281,0,0,0,0,0,0,0,0,0,0,4,4288,0,0,0,0,1,0,0,1
+quantum computing,5,https://azure.microsoft.com/en-us/overview/what-is-quantum-computing/,0,0,1,0,1,286,0,0,1,0,0,0,0,0,0,0,5,24748,0,2,0,1,13,2,0,2
+quantum computing,6,https://www.newscientist.com/article/2297583-ibm-creates-largest-ever-superconducting-quantum-computer/,0,0,1,0,0,303,0,0,0,0,0,0,0,0,0,0,1,3980,0,0,0,0,0,0,0,1
+quantum computing,7,https://www.sciencealert.com/quantum-computers,0,0,1,0,0,299,0,0,0,0,0,0,0,0,0,0,2,2931,0,0,0,0,1,0,0,0
+quantum computing,8,https://www.investopedia.com/terms/q/quantum-computing.asp,0,0,1,0,0,631,0,0,0,0,0,0,0,0,0,0,9,8466,0,1,0,0,1,0,3,1
+approximation algorithm ,1,https://en.wikipedia.org/wiki/Approximation_algorithm,1,0,0,0,0,590,0,1,0,0,0,0,0,0,0,0,12,11810,0,9,0,4,0,0,0,2
+approximation algorithm ,2,https://www.geeksforgeeks.org/approximation-algorithms/,1,0,0,0,1,292,0,0,0,0,0,0,0,0,0,0,2,1065,0,2,0,0,1,0,0,1
+approximation algorithm ,3,https://www.javatpoint.com/daa-approximate-algorithms,0,0,1,0,0,303,0,0,0,0,0,0,0,0,0,0,4,2976,0,0,0,0,0,0,0,1
+approximation algorithm ,4,https://www.cs.yale.edu/homes/aspnes/pinewiki/ApproximationAlgorithms.html?highlight=%28CategoryAlgorithmNotes%29,0,1,0,0,1,270,0,1,0,0,1,0,0,0,0,0,2,9611,0,3,1,5,0,0,1,2
+approximation algorithm ,5,https://www2.hawaii.edu/~nodari/teaching/s18/Notes/Topic-25.html,0,1,0,0,0,301,0,0,0,0,0,0,0,0,0,0,11,13243,0,9,1,8,0,0,0,2
+approximation algorithm ,6,https://www.amazon.co.jp/Approximation-Algorithms-Vijay-V-Vazirani/dp/3540653678,0,0,0,1,0,255,0,0,0,0,0,0,0,0,0,0,1,2578,0,1,0,0,0,0,8,0
+approximation algorithm ,7,https://www.youtube.com/watch?v=jFW7fwa0Zm8,0,0,1,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+approximation algorithm ,8,https://arxiv.org/abs/2007.01409,1,0,0,0,0,836,0,0,0,0,0,0,0,0,0,0,0,728,0,0,0,0,0,0,0,0
+approximation algorithm ,9,https://stanford.edu/~rezab/discrete/Notes/10.pdf,0,1,0,0,0,310,0,0,0,0,0,0,0,0,0,0,0,227,0,0,0,0,1,0,0,0
+approximation algorithm ,10,https://home.ttic.edu/~cjulia/course.html,0,1,0,0,0,278,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+support vector machine ,1,https://en.wikipedia.org/wiki/Support-vector_machine,1,0,0,0,0,477,0,1,0,0,0,0,0,0,0,0,2,31087,0,10,0,1,0,0,0,1
+support vector machine ,2,https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47,0,0,1,0,0,1222,0,0,0,0,1,0,0,0,0,0,1,5202,0,0,0,1,2,0,0,0
+support vector machine ,3,http://scikit-learn.org/stable/modules/svm.html,1,0,0,0,0,373,0,0,0,0,1,0,0,0,0,0,1,23355,0,9,9,0,2,0,0,1
+support vector machine ,4,https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/,0,0,1,0,0,392,0,0,0,0,0,0,0,0,0,0,1,8915,0,4,0,0,4,1,0,2
+support vector machine ,5,https://www.youtube.com/watch?v=efR1C6CvhmE,0,0,1,0,0,313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+support vector machine ,6,https://avinton.com/academy/svm/,0,0,1,0,0,211,0,0,0,0,0,0,0,0,0,0,0,3124,0,1,0,0,2,0,3,1
+support vector machine ,7,https://aiacademy.jp/media/?p=248,0,0,0,1,0,222,0,0,0,0,0,0,0,0,0,0,0,2676,0,0,0,0,0,0,1,0
+support vector machine ,8,https://www.nature.com/articles/nbt1206-1565,1,0,1,0,0,604,0,0,0,0,0,0,0,0,0,0,1,5243,0,2,0,0,0,0,0,0
+support vector machine ,9,https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/,0,0,1,0,1,909,0,0,0,0,1,0,0,0,0,0,3,11282,0,9,0,0,3,1,0,1
+natural language processing,1,https://en.wikipedia.org/wiki/Natural_language_processing,1,0,0,0,0,672,0,1,0,0,0,0,0,0,0,0,10,9095,0,4,0,0,0,0,1,1
+natural language processing,2,https://www.xoriant.com/blog/machine-learning/natural-language-processing-the-next-disruptive-technology-under-ai-part-i.html,0,0,1,0,0,523,0,0,0,0,0,0,0,0,0,0,0,5220,0,3,0,0,0,0,0,0
+natural language processing,3,https://www.ibm.com/cloud/learn/natural-language-processing,0,0,1,0,0,352,0,0,0,0,0,0,0,0,0,0,1,4411,0,1,0,1,1,0,0,0
+natural language processing,4,https://machinelearningmastery.com/natural-language-processing/,0,0,1,0,0,375,0,0,0,0,0,0,0,0,0,0,10,14972,0,3,0,0,3,0,9,2
+natural language processing,5,https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html,0,0,1,0,0,300,0,0,0,0,0,0,0,0,0,0,4,7772,1,3,0,0,2,1,0,1
+natural language processing,6,https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1,0,0,1,0,0,602,0,0,0,0,0,0,0,0,0,0,0,15517,0,11,0,1,2,0,1,1
+natural language processing,7,https://searchenterpriseai.techtarget.com/definition/natural-language-processing-NLP,0,0,1,0,0,328,0,0,0,0,0,0,0,0,0,0,17,8786,0,1,0,0,2,0,0,2
+natural language processing,8,https://trailhead.salesforce.com/ja/content/learn/modules/deep-learning-and-natural-language-processing/start-with-nlp,0,0,1,0,0,320,0,0,0,0,0,0,0,0,0,0,3,9305,0,8,0,0,11,0,0,2
+natural language processing,9,https://www.coursera.org/specializations/natural-language-processing,1,0,0,0,0,348,0,0,0,1,0,0,0,0,0,0,0,16019,0,0,0,0,8,1,4,1
+natural language processing,10,https://www.udacity.com/course/natural-language-processing-nanodegree--nd892,0,0,1,0,0,836,0,0,0,1,0,0,0,0,0,0,2,3384,0,0,0,0,0,0,1,0
+feedforward neural network ,1,https://en.wikipedia.org/wiki/Feedforward_neural_network,1,0,0,0,1,402,0,1,0,0,0,0,0,0,0,0,2,7211,0,1,0,3,0,0,0,1
+feedforward neural network ,2,https://towardsdatascience.com/deep-learning-feedforward-neural-network-26a6705dbdc7,0,0,1,0,0,650,0,0,0,0,0,0,0,0,0,0,0,11091,0,4,0,0,1,0,0,0
+feedforward neural network ,3,https://brilliant.org/wiki/feedforward-neural-networks/,1,0,0,0,0,1268,0,1,0,0,0,0,0,1,0,0,4,18865,2,2,0,7,0,0,1,1
+feedforward neural network ,4,https://deepai.org/machine-learning-glossary-and-terms/feed-forward-neural-network,1,0,0,0,0,328,0,0,0,0,0,0,0,0,0,0,0,3574,0,1,0,0,0,0,0,0
+feedforward neural network ,5,https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/Architecture/feedforward.html,0,1,0,0,0,333,0,0,0,0,0,0,0,0,0,0,0,3537,0,0,1,0,0,0,0,0
+feedforward neural network ,6,https://www.fon.hum.uva.nl/praat/manual/Feedforward_neural_networks_1__What_is_a_feedforward_ne.html,0,0,0,1,1,607,0,0,0,0,1,0,0,0,0,0,1,1494,0,1,0,0,1,0,0,0
+feedforward neural network ,7,https://www.mathworks.com/help/nnet/ref/feedforwardnet.html,0,0,1,0,1,368,0,0,0,0,0,0,0,0,0,0,2,3938,0,6,0,0,0,0,0,1
+feedforward neural network ,8,https://training.galaxyproject.org/training-material/topics/statistics/tutorials/FNN/tutorial.html,1,0,0,0,0,330,1,0,0,0,1,0,0,0,0,0,1,22339,0,15,7,5,2,0,0,2
+feedforward neural network ,9,https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b,0,0,1,0,1,341,0,0,0,0,0,0,0,0,0,0,3,13878,0,0,2,1,8,0,0,2
+feedforward neural network ,10,https://learnopencv.com/understanding-feedforward-neural-networks/,0,0,1,0,0,331,0,0,0,0,0,0,0,0,0,0,1,11761,1,5,0,0,3,1,0,1
+knapsack problem ,1,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Knapsack.svg/1200px-Knapsack.svg.png?sa=X&ved=2ahUKEwiGrIWT6p70AhWJvZ4KHeozB8QQ_B16BAgFEAI,1,0,1,0,0,336,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+knapsack problem ,2,https://en.wikipedia.org/wiki/Knapsack_problem,1,0,0,0,1,521,0,1,0,0,1,0,0,0,0,0,19,21999,0,8,1,4,2,0,0,1
+knapsack problem ,3,https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/,1,0,0,0,0,530,0,0,0,0,0,0,0,0,0,0,0,4575,0,0,0,0,1,0,0,0
+knapsack problem ,4,https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf,0,0,1,0,0,341,0,0,0,0,0,0,0,0,0,0,1,7489,0,3,0,0,1,0,0,0
+knapsack problem ,5,https://www.youtube.com/watch?v=8LusJS5-AGo,0,0,1,0,0,615,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+knapsack problem ,6,https://www.hackerearth.com/practice/notes/the-knapsack-problem/,0,0,1,0,0,322,0,0,0,0,0,0,0,0,0,0,0,5128,0,2,0,0,1,0,0,1
+knapsack problem ,7,http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf,0,0,0,1,0,307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+knapsack problem ,8,https://www.educative.io/edpresso/what-is-the-knapsack-problem,0,1,0,0,0,339,0,0,0,0,0,0,0,0,0,0,0,1932,0,2,0,0,0,0,0,1
+knapsack problem ,9,https://www.guru99.com/knapsack-problem-dynamic-programming.html,0,0,1,0,0,652,0,0,0,0,0,0,0,0,0,0,0,3284,0,1,2,0,1,0,0,0
+error correction code ,1,https://en.wikipedia.org/wiki/Error_correction_code,1,0,0,0,0,377,0,1,0,0,0,0,0,0,0,0,0,19334,0,4,0,1,119,0,0,2
+error correction code ,2,https://www.javatpoint.com/error-detection-and-correction-code-in-digital-electronics,0,0,1,0,0,320,0,0,0,0,0,0,0,0,0,0,0,3696,0,1,0,0,23,0,0,1
+error correction code ,3,https://e-words.jp/w/%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E7%AC%A6%E5%8F%B7.html,0,0,0,1,0,227,0,0,0,0,0,0,0,0,0,0,0,698,0,0,0,0,2,0,0,0
+error correction code ,4,https://www.tutorialspoint.com/digital_circuits/digital_circuits_error_detection_correction_codes.htm,0,0,1,0,0,318,1,0,0,0,0,0,0,0,0,0,0,8192,0,1,0,0,63,0,0,1
+error correction code ,5,https://www.techopedia.com/definition/24161/error-correction-code--ecc,0,0,1,0,0,514,0,0,0,0,0,0,0,0,0,0,0,2155,0,0,0,0,2,0,0,0
+error correction code ,6,https://www.techtarget.com/searchnetworking/definition/ECC,0,0,1,0,1,281,0,0,0,0,0,0,0,0,0,0,0,2499,0,0,0,0,2,1,1,0
+error correction code ,7,https://brilliant.org/wiki/error-correcting-codes/,1,0,0,0,0,337,0,1,0,0,0,0,0,0,0,0,0,10094,0,10,0,0,30,0,0,2
+error correction code ,8,https://mathworld.wolfram.com/Error-CorrectingCode.html,0,0,1,0,0,303,0,0,0,0,0,0,0,0,0,0,0,4533,0,0,0,3,6,0,2,0
+error correction code ,9,https://www.sciencedirect.com/topics/computer-science/error-correction-code,0,0,1,0,0,316,0,0,0,0,0,0,0,0,0,0,1,30234,0,17,1,3,164,0,1,2
+error correction code ,10,https://www.section.io/engineering-education/understanding-error-correcting-codes-part-1/,0,0,0,1,0,319,0,0,0,0,0,0,0,0,0,0,0,10521,0,7,0,4,55,0,0,2
+supervised learning ,1,https://en.wikipedia.org/wiki/Supervised_learning,1,0,0,0,1,356,0,1,0,0,0,0,0,0,0,0,10,12834,0,14,0,0,0,0,0,1
+supervised learning ,2,https://www.tibco.com/reference-center/what-is-supervised-learning,0,0,1,0,0,301,0,0,0,0,0,0,0,0,0,0,8,9767,0,4,0,0,0,0,0,0
+supervised learning ,3,https://www.ibm.com/cloud/learn/supervised-learning,0,0,1,0,0,487,0,0,0,0,0,0,0,0,0,0,7,6758,0,0,0,1,0,0,0,1
+supervised learning ,4,https://searchenterpriseai.techtarget.com/definition/supervised-learning,0,0,1,0,0,316,0,0,0,0,0,0,0,0,0,0,21,9549,0,2,0,0,1,0,0,1
+supervised learning ,5,https://atmarkit.itmedia.co.jp/ait/articles/1901/06/news055.html,0,0,0,1,0,587,0,0,0,0,0,0,0,0,0,0,0,485,0,0,0,0,0,0,0,0
+supervised learning ,6,https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/,0,0,1,0,0,316,0,0,0,0,0,0,0,0,0,0,54,55624,0,29,0,1,3,1,8,2
+supervised learning ,7,https://www.sciencedirect.com/topics/computer-science/supervised-learning,0,0,1,0,1,312,0,0,0,0,0,0,0,0,0,0,13,20815,0,10,2,5,3,0,1,1
+supervised learning ,8,https://www.javatpoint.com/supervised-machine-learning,0,0,1,0,0,297,0,0,0,0,0,0,0,0,0,0,2,3505,1,1,0,0,0,0,0,0
+supervised learning ,9,https://www.geeksforgeeks.org/supervised-unsupervised-learning/,1,0,0,0,1,467,0,0,0,0,0,0,0,0,0,0,4,3527,0,3,0,0,1,0,0,1
+supervised learning ,10,https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590,0,0,1,0,0,322,0,0,0,0,0,0,0,0,0,0,5,5298,0,2,1,0,1,0,0,0
+computational complexity theory,1,https://en.wikipedia.org/wiki/Computational_complexity_theory,1,0,0,0,0,373,0,1,0,0,1,0,0,0,0,0,5,30755,0,14,1,17,3,0,0,2
+computational complexity theory,2,https://plato.stanford.edu/entries/computational-complexity/,0,1,0,0,0,309,0,0,0,0,0,0,0,0,0,0,15,170794,0,22,98,24,5,0,4,1
+computational complexity theory,3,https://academic.oup.com/philmat/article/27/3/381/5613215,1,0,1,0,0,921,0,0,0,0,0,0,0,0,0,0,0,1571,0,0,0,0,0,0,0,0
+computational complexity theory,4,https://theory.cs.princeton.edu/complexity/book.pdf,0,1,0,0,0,327,0,0,0,0,0,0,0,0,0,1,0,40678,0,2,2,6,14,0,1,2
+computational complexity theory,5,https://www.seh.ox.ac.uk/blog/an-introduction-to-research-in-computational-complexity-theory,0,0,0,1,0,323,0,0,1,0,0,0,0,0,0,0,0,6574,0,5,0,20,0,0,0,2
+computational complexity theory,6,https://www.britannica.com/topic/computational-complexity,0,0,1,0,0,284,0,0,0,0,0,0,0,0,0,0,0,1879,0,1,0,1,1,0,0,1
+computational complexity theory,7,https://www.amazon.co.jp/Computational-Complexity-Discrete-Mathematics-Optimization/dp/1118306082,0,0,0,1,0,602,0,0,0,0,0,0,0,0,0,0,2,2241,0,0,0,0,0,0,3,0
+computational complexity theory,8,http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=201704016&Nendo=2017&LeftTab=graduate&lang=EN&vid=03,0,0,0,1,0,297,0,0,0,0,0,0,0,0,0,0,2,2376,0,0,0,0,0,0,0,0
+computational complexity theory,9,https://brilliant.org/wiki/complexity-theory/,1,0,0,0,0,322,0,1,0,0,0,0,0,0,0,0,0,9804,0,10,0,3,1,0,0,1
+computational complexity theory,10,https://www.sciencedirect.com/topics/computer-science/computational-complexity-theory,0,0,1,0,0,311,0,0,0,0,0,0,0,0,0,0,5,24337,1,5,8,3,1,0,1,0
+linear programming ,1,https://en.wikipedia.org/wiki/Linear_programming,1,0,0,0,0,525,0,1,0,0,0,0,0,0,0,0,28,26504,0,7,5,7,2,1,0,1
+linear programming ,2,https://www.analyticsvidhya.com/blog/2017/02/lintroductory-guide-on-linear-programming-explained-in-simple-english/,0,0,1,0,0,700,0,0,0,0,0,0,1,0,0,0,10,21273,0,9,8,5,2,0,0,2
+linear programming ,3,https://brilliant.org/wiki/linear-programming/,1,0,0,0,0,318,0,1,0,0,0,0,0,0,0,0,12,51440,0,6,0,1,0,0,5,1
+linear programming ,4,https://www.youtube.com/watch?v=Bzzqx1F23a8,0,0,1,0,1,337,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+linear programming ,5,https://www.britannica.com/science/linear-programming-mathematics,0,0,1,0,1,364,0,0,0,0,0,0,0,0,0,0,4,2878,0,0,0,0,0,0,0,0
+linear programming ,6,https://www.sciencedirect.com/topics/earth-and-planetary-sciences/linear-programming,0,0,1,0,0,308,0,0,0,0,0,0,0,0,0,0,10,38448,0,5,12,0,1,0,1,1
+linear programming ,7,https://www.researchgate.net/post/What_is_the_best_software_available_for_linear_programming,1,0,0,0,1,429,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,0,0,0
+linear programming ,8,https://courses.lumenlearning.com/sanjacinto-finitemath1/chapter/reading-meeting-demands-with-linear-programming/,0,0,1,0,1,624,0,0,0,1,0,0,0,0,0,0,8,18423,0,6,0,8,0,0,0,0
+artificial intelligence ,1,https://www.britannica.com/technology/artificial-intelligence,0,0,1,0,1,916,0,0,0,0,0,0,0,0,0,0,3,4014,0,3,0,0,0,0,0,1
+artificial intelligence ,2,https://en.wikipedia.org/wiki/Artificial_intelligence,1,0,0,0,0,865,0,1,0,0,0,0,0,0,0,0,8,49870,0,17,0,1,0,1,8,2
+artificial intelligence ,3,https://economictimes.indiatimes.com/tech/ites/the-rise-of-machines-timeline-of-the-evolution-of-artificial-intelligence/first-what-is-the-big-fuss-really/slideshow/77198656.cms,0,0,1,0,0,318,0,0,0,0,0,0,0,0,0,0,0,367,0,0,0,0,0,0,0,0
+artificial intelligence ,4,https://builtin.com/artificial-intelligence,0,0,1,0,1,1239,0,0,0,0,0,0,0,0,0,0,13,10913,0,3,0,0,1,0,1,1
+artificial intelligence ,5,https://thehill.com/policy/healthcare/581845-burgess-artificial-intelligence-key-for-future-diabetic-care,0,0,1,0,0,348,0,0,0,0,0,0,0,0,0,0,1,3749,0,0,0,0,0,0,1,0
+artificial intelligence ,6,https://scitechdaily.com/discovering-impossible-to-detect-exoplanets-using-artificial-intelligence/,0,0,1,0,1,356,0,0,0,0,0,0,0,0,0,0,3,5854,0,2,0,0,0,0,0,0
+artificial intelligence ,7,https://www.archdaily.com/971961/eyes-of-the-city,0,0,1,0,0,585,0,0,0,0,0,0,0,0,0,1,1,9881,0,0,0,1,0,0,9,0
+artificial intelligence ,8,https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/,1,0,0,0,1,364,0,0,0,0,0,0,0,0,0,0,7,26266,0,9,0,0,2,0,1,1
+artificial intelligence ,9,https://www.ibm.com/cloud/learn/what-is-artificial-intelligence,0,0,1,0,1,611,0,0,0,0,0,0,0,0,0,0,5,7055,1,3,0,0,0,1,2,1
+artificial intelligence ,10,https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence,0,0,1,0,0,1328,0,0,0,0,0,0,0,0,0,0,6,19054,0,10,0,0,2,0,0,2
+pattern recognition ,1,https://www.arm.com/glossary/pattern-recognition,0,0,1,0,1,293,0,0,0,0,0,0,0,0,0,0,0,1700,0,1,0,1,0,0,0,0
+pattern recognition ,2,https://www.journals.elsevier.com/pattern-recognition,0,0,1,0,0,1214,0,0,0,0,0,0,0,0,0,0,3,6368,0,0,0,0,0,2,0,0
+pattern recognition ,3,https://www.elsevier.com/journals/pattern-recognition/0031-3203/guide-for-authors,0,0,1,0,0,338,0,0,0,0,0,0,0,0,0,0,6,41768,0,5,3,11,6,11,3,2
+pattern recognition ,4,https://en.wikipedia.org/wiki/Pattern_recognition,1,0,0,0,0,520,0,1,0,0,0,0,0,0,0,0,14,17727,0,16,0,1,1,0,0,2
+pattern recognition ,5,https://www.geeksforgeeks.org/pattern-recognition-phases-and-activities/,1,0,0,0,0,323,0,0,0,0,0,0,0,0,0,0,0,775,0,0,0,0,1,0,0,0
+pattern recognition ,6,https://www.sciencedirect.com/journal/pattern-recognition,0,0,1,0,0,389,0,0,0,0,0,0,0,0,0,0,0,819,0,0,0,0,0,0,0,0
+pattern recognition ,7,https://www.section.io/engineering-education/understanding-pattern-recognition-in-machine-learning/,0,0,0,1,0,335,0,0,0,0,1,0,0,0,0,0,11,6203,0,1,0,0,0,0,0,0
+pattern recognition ,8,https://viso.ai/deep-learning/pattern-recognition/,0,0,0,1,0,275,0,0,0,0,0,0,0,0,0,0,35,14876,0,8,0,0,1,4,0,1
+pattern recognition ,9,https://www.amazon.com/Pattern-Recognition-Blue-William-Gibson/dp/0425198685,0,0,1,0,0,923,0,0,0,0,0,0,0,0,0,1,0,14138,0,0,0,2,0,3,4,1
+pattern recognition ,10,https://dictionary.apa.org/pattern-recognition,1,0,0,0,1,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+information theory ,1,https://en.wikipedia.org/wiki/Information_theory,1,0,0,0,1,377,0,1,0,0,0,0,0,0,0,0,15,22813,0,4,2,10,10,0,0,2
+information theory ,2,https://www.cell.com/current-biology/comments/S0960-9822(00)00609-6,0,0,1,0,0,663,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+information theory ,3,https://www.sciencedirect.com/topics/neuroscience/information-theory,0,0,1,0,0,342,0,0,0,0,0,0,0,0,0,0,7,36153,0,11,2,4,12,0,2,2
+information theory ,4,https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf,0,1,0,0,0,334,0,0,0,0,0,0,0,0,0,0,0,900,0,0,0,0,1,0,0,0
+information theory ,5,https://www.britannica.com/science/information-theory,0,0,1,0,1,868,0,0,0,0,0,0,0,0,0,0,9,7662,0,0,2,3,0,0,1,1
+information theory ,6,https://www.khanacademy.org/computing/computer-science/informationtheory,1,0,0,0,0,964,0,0,0,0,0,0,0,0,0,0,0,480,0,0,0,0,0,0,0,0
+information theory ,7,https://www.quantamagazine.org/how-claude-shannons-information-theory-invented-the-future-20201222/,1,0,0,0,0,336,0,0,0,0,0,0,0,0,0,0,0,10324,0,3,3,0,7,0,0,2
+information theory ,8,https://www.theguardian.com/science/2014/jun/22/shannon-information-theory,0,0,1,0,1,335,0,0,0,0,0,0,0,0,0,0,0,5760,0,1,0,0,7,1,1,0
+information theory ,9,https://www.scientificamerican.com/article/claude-e-shannon-founder/,0,0,1,0,0,1024,0,0,0,0,0,0,0,0,0,0,0,8031,0,1,1,6,5,0,0,2
+autoencoder,1,https://en.wikipedia.org/wiki/Autoencoder,1,0,0,0,1,368,0,1,0,0,0,0,0,0,0,0,51,16609,0,8,2,0,84,0,0,2
+autoencoder,2,https://blog.keras.io/building-autoencoders-in-keras.html,0,0,0,1,1,802,0,0,0,0,0,0,0,0,0,0,32,15911,0,7,0,0,66,0,0,1
+autoencoder,3,https://www.tensorflow.org/tutorials/generative/autoencoder,1,0,0,0,1,362,1,0,0,0,0,0,0,0,0,0,19,5265,0,11,0,0,32,0,0,2
+autoencoder,4,https://www.jeremyjordan.me/autoencoders/,0,0,0,1,1,409,0,0,0,0,0,0,0,0,0,0,23,13826,0,4,0,1,33,1,1,1
+autoencoder,5,https://ledge.ai/autoencoder/,0,0,0,1,0,577,0,0,0,0,0,0,0,0,0,0,0,2906,0,0,0,0,1,0,0,0
+autoencoder,6,https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726,0,0,1,0,0,636,0,0,0,0,0,0,0,0,0,0,7,5971,0,2,0,0,33,0,0,1
+autoencoder,7,http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/,0,1,0,0,1,294,0,0,0,0,0,0,0,0,0,0,11,10057,0,13,0,0,12,0,0,2
+autoencoder,8,https://www.v7labs.com/blog/autoencoders-guide,0,0,1,0,1,289,0,0,0,0,0,0,0,0,0,0,62,16686,1,2,0,0,87,0,0,0
+autoencoder,9,https://www.deeplearningbook.org/contents/autoencoders.html,1,0,0,0,1,849,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+autoencoder,10,https://machinelearningmastery.com/autoencoder-for-classification/,0,0,1,0,1,320,0,0,0,0,0,0,0,0,0,0,56,38930,0,29,0,3,187,0,3,2
+robotics ,1,https://en.wikipedia.org/wiki/Robotics,1,0,0,0,0,323,0,1,0,0,0,0,0,0,0,0,29,49030,0,16,1,0,0,2,0,1
+robotics ,2,https://builtin.com/robotics,0,0,1,0,1,855,0,0,0,0,0,0,0,0,0,0,9,12912,0,6,0,2,0,2,0,1
+robotics ,3,https://ifr.org/,1,0,0,0,1,1107,0,0,0,0,0,0,0,0,0,0,16,9225,0,1,0,0,0,0,0,0
+robotics ,4,https://www.softbankrobotics.com/,0,0,1,0,1,1006,0,0,0,0,0,0,0,0,0,0,2,1444,0,0,0,0,0,0,0,0
+robotics ,5,https://www.britannica.com/technology/robotics,0,0,1,0,1,388,0,0,0,0,0,0,0,0,0,0,2,894,0,0,0,0,0,0,0,0
+robotics ,6,https://whatis.techtarget.com/definition/robotics,0,0,1,0,1,287,0,0,0,0,0,0,0,0,0,0,6,5893,0,1,0,1,0,0,0,0
+robotics ,7,https://spectrum.ieee.org/topic/robotics/,1,0,0,0,0,295,0,0,0,0,0,0,0,0,0,0,0,1459,0,0,0,0,0,7,0,1
+robotics ,8,http://www.ieee-ras.org/,1,0,0,0,1,329,0,0,0,0,0,0,0,0,0,0,2,1260,0,0,0,0,0,1,0,0
+robotics ,9,https://www.mdpi.com/journal/robotics,0,0,1,0,0,369,0,0,0,0,0,0,0,0,0,0,0,1849,0,0,0,0,0,0,0,0
+robotics ,10,https://robotics.tokyo/,0,0,0,1,0,239,0,0,0,0,0,0,0,0,0,0,5,13004,0,0,0,1,2,1,0,0
+stochastic gradient descent,1,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,1,0,0,0,0,660,0,1,0,0,0,0,0,0,0,0,19,18566,0,8,2,1,3,0,0,0
+stochastic gradient descent,2,https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E7%9A%84%E5%8B%BE%E9%85%8D%E9%99%8D%E4%B8%8B%E6%B3%95,1,0,0,0,1,259,0,1,0,0,0,0,0,0,0,0,1,3483,0,0,0,0,0,0,0,0
+stochastic gradient descent,3,http://scikit-learn.org/stable/modules/sgd.html,1,0,0,0,0,308,0,0,0,0,1,0,0,0,0,0,1,19038,0,13,4,0,3,0,0,2
+stochastic gradient descent,4,https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31,0,0,1,0,0,1208,0,0,0,0,0,0,0,0,0,0,0,4292,0,1,0,2,1,0,0,0
+stochastic gradient descent,5,https://ruder.io/optimizing-gradient-descent/,0,0,0,1,0,883,0,0,0,0,0,0,0,0,0,0,0,44186,0,11,0,2,3,1,0,2
+stochastic gradient descent,6,https://www.youtube.com/watch?v=vMh0zPT0tLI,0,0,1,0,1,465,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+stochastic gradient descent,7,https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/,1,0,0,0,0,309,0,0,0,0,0,0,0,0,0,0,0,3817,0,2,0,0,2,0,0,1
+stochastic gradient descent,8,https://realpython.com/gradient-descent-algorithm-python/,0,0,1,0,0,310,0,0,0,0,0,0,0,0,0,0,13,27976,0,13,0,0,5,2,1,1
+stochastic gradient descent,9,https://www.pnas.org/content/118/9/e2015617118,1,0,0,0,0,326,0,0,0,0,0,0,0,0,0,0,3,46747,0,1,0,0,1,0,0,0
+stochastic gradient descent,10,https://papers.nips.cc/paper/7712-byzantine-stochastic-gradient-descent,0,0,0,1,0,321,0,0,0,0,0,0,0,0,0,0,1,1330,0,0,0,1,0,0,0,0
+speech recognition,1,https://searchcustomerexperience.techtarget.com/definition/speech-recognition,0,0,1,0,0,323,0,0,0,0,0,0,0,0,0,0,9,6254,0,0,0,0,0,1,0,1
+speech recognition,2,https://en.wikipedia.org/wiki/Speech_recognition,1,0,0,0,1,478,0,1,0,0,0,0,0,0,0,0,84,43131,0,4,2,1,4,3,8,1
+speech recognition,3,https://www.ibm.com/cloud/learn/speech-recognition,0,0,1,0,1,340,0,0,0,0,0,0,0,0,0,0,11,5258,0,2,0,0,2,0,0,1
+speech recognition,4,https://tweakreviews.com/gadgets/speech-recognition-in-outlook,0,0,1,0,1,281,0,0,0,0,0,0,0,0,0,0,10,3957,0,0,0,0,0,0,0,0
