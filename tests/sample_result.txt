@@ -1,0 +1,19 @@
+Please enter your search keyword:machine learning
+
+Please enter your expected number(integer) of search results:7
+
+Do you want to apply the filter to clear similar results?(1 for yes, 0 for no)0
+
+Program is collecting search results, please wait...
+
+websites for keyword  machine learning  : ['https://cdn.ttgtmedia.com/rms/onlineImages/business_analytics-machine_learning_process_mobile.jpg?sa=X&ved=2ahUKEwiVwrW8vPf0AhVrFLcAHQZfBqYQ_B16BAgFEAI', 'https://searchenterpriseai.techtarget.com/definition/machine-learning-ML', 'https://www.britannica.com/technology/machine-learning', 'https://en.wikipedia.org/wiki/Machine_learning', 'https://www.sas.com/en_sg/insights/analytics/machine-learning.html', 'https://en.wikipedia.org/wiki/Machine_Learning_(journal)', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning']
+
+Program is applying to classifier, please wait...
+
+Program is generating outputs, please wait...
+
+Note: The output websites will be sorted and contained in a list, with the leftmost being most useful and rightmost being least useful
+
+The outputs are as followed: ['https://en.wikipedia.org/wiki/Machine_learning', 'https://searchenterpriseai.techtarget.com/definition/machine-learning-ML', 'https://www.sas.com/en_sg/insights/analytics/machine-learning.html', 'https://en.wikipedia.org/wiki/Machine_Learning_(journal)', 'https://cdn.ttgtmedia.com/rms/onlineImages/business_analytics-machine_learning_process_mobile.jpg?sa=X&ved=2ahUKEwiVwrW8vPf0AhVrFLcAHQZfBqYQ_B16BAgFEAI', 'https://www.britannica.com/technology/machine-learning', 'https://en.wikipedia.org/wiki/Timeline_of_machine_learning']
+
+Useful level(larger = better): [2, 1, 1, 1, 0, 0, 0]

@@ -1,0 +1,15 @@
+markov chain
+image segmentation
+recurrent neural network
+protocol hierarchy
+backup system
+requirement analysis
+link layer
+congestion window
+fuzzy logic
+mobile agent
+label transition system
+bayesian network
+backpropagation
+facial recognition system
+constraint programming
