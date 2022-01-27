@@ -31,7 +31,7 @@ def predict_for_user(features):
     predictions = []
 
     # Load dataset
-    df = pd.read_excel(r'E:\Learning\undergraduate\2021 Fall\CS397\data_labeling.xlsx', sheet_name='dataset')
+    df = pd.read_excel(r'dataset/data_labeling.xlsx', sheet_name='dataset')
     x = df.iloc[:, [0, 7]].values
     labels = df.iloc[:, 8].values
 

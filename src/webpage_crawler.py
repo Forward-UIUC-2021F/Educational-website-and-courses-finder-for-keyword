@@ -65,7 +65,7 @@ def DataSearch(keyword,result_num,apply_filter,user_header = "Mozilla/5.0 (Windo
             final_results_list.append(web)
 
     # print out the results
-    print('websites for keyword ',keyword,' :',final_results_list)
+    # print('websites for keyword ',keyword,' :',final_results_list)
 
 
     for website in final_results_list:
