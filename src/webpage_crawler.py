@@ -6,6 +6,8 @@ from random import randint
 import time
 import csv
 
+import ssl
+
 path = "./tmp_website.html"
 
 '''
@@ -76,16 +78,21 @@ def DataSearch(keyword,result_num,apply_filter,user_header = "Mozilla/5.0 (Windo
         original_text = []
 
         header = {"User-Agent": user_header}
-        request = urllib.request.Request(website, headers = header)
-        response = urllib.request.urlopen(request).read()
+
+        try:
+            request = urllib.request.Request(website, headers = header)
+            response = urllib.request.urlopen(request, timeout=3).read()
+        except Exception as e:
+            print(e)
+            continue
 
         # store the website into the temporary file
-        file = open(path, "wb")
-        file.write(response)
-        file.close()
+        # file = open(path, "wb")
+        # file.write(response)
+        # file.close()
 
         # fetch the appropriate text from the website
-        soup = BeautifulSoup(open(path,'rb'), features="lxml")
+        soup = BeautifulSoup(response, features="lxml")
         for p_idx in soup.select("p"):
             tmp_text += p_idx.get_text()
 
@@ -180,10 +187,11 @@ def DataCollection(keyword,result_num = 10,apply_filter = 1):
     idx = 1
     for website in final_results_list:
         url = "https://google.com/search?q="
+        # url = "http://google.com/search?q="
         url += website
 
         header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"}
-        time.sleep(randint(5, 30))  # from 5 to 30 seconds
+        # time.sleep(randint(5, 30))  # from 5 to 30 seconds
 
         # Perform the request
         request = urllib.request.Request(url, headers=header)

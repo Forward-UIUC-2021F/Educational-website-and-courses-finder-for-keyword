@@ -27,22 +27,23 @@ Parameters:
 Outputs:
     predictions(list): predicated labels from rf classifier to corresponding websites in input 'features'
 '''
+# Load dataset
+df = pd.read_excel(r'dataset/data_labeling.xlsx', engine='openpyxl', sheet_name='dataset')
+x = df.iloc[:, [0, 7]].values
+labels = df.iloc[:, 8].values
+
+
+
+model = RandomForestClassifier(n_estimators=100,
+                                random_state=random_seed,
+                                max_features='sqrt')
+
+# Fit on training data
+model.fit(x, labels)
+
+
 def predict_for_user(features):
     predictions = []
-
-    # Load dataset
-    df = pd.read_excel(r'dataset/data_labeling.xlsx', sheet_name='dataset')
-    x = df.iloc[:, [0, 7]].values
-    labels = df.iloc[:, 8].values
-
-
-
-    model = RandomForestClassifier(n_estimators=100,
-                                   random_state=random_seed,
-                                   max_features='sqrt')
-
-    # Fit on training data
-    model.fit(x, labels)
 
     new_feature = []
     for i in features:
